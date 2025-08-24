@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ahmed",
+    "image": "/assets/students/ahmed.png",
+    "comment": "تجربة ممتازة، تعلمت برشا حاجات جديدة في المركز هذا والأساتذة كانوا متفهمين ومساعدين."
+  },
+  {
+    "name": "Amir",
+    "image": "/assets/students/amir.png",
+    "comment": "المدرسين هنا يعطيو بلاصتهم، والورشات مفيدة برشا. الجو كان حلو والتعلم كان سهل."
+  },
+  {
+    "name": "nermin",
+    "image": "/assets/students/nermin.png",
+    "comment": "المركز هذا فتحلي المجال نتعلم برشا تقنيات جديدة ونطور في روحي بطريقة ما كنتش نتوقعها."
+  },
+  {
+    "name": "Asma",
+    "image": "/assets/students/asma.png",
+    "comment": "شكرا على الدعم والرعاية، ولقيت فرصة عمل بعد الدراسة مباشرة. المركز يستاهل كل الاحترام."
+  },
+  {
+    "name": "Aziz",
+    "image": "/assets/students/aziz.png",
+    "comment": "أفضل مكان باش تتعلم برشا حاجات تقنية حديثة. الأجهزة حديثة والبرامج متطورة."
+  },
+  {
+    "name": "Fares",
+    "image": "/assets/students/fares.png",
+    "comment": "الدورات كانت منظمة وممتازة، أنصح الجميع باش يلتحق بالمركز. فعلا يستاهل."
+  },
+  {
+    "name": "Feryel",
+    "image": "/assets/students/feryel.png",
+    "comment": "التجربة كانت فريدة من نوعها والجو كان مشجع برشا. حسيت بروحي في عائلة."
+  },
+  {
+    "name": "Khalil",
+    "image": "/assets/students/khalil.png",
+    "comment": "التكوين في المركز هذا ساعدني نطور مهاراتي ونشوف فرص جديدة في السوق."
+  },
+  {
+    "name": "Maram",
+    "image": "/assets/students/maram.png",
+    "comment": "تجربة رائعة وعندهم فريق يهتم بالطلبة بشكل كبير. كل واحد يحس بروحو مهم."
+  }
+]
